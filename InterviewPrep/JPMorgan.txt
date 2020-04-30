@@ -1,0 +1,100 @@
+﻿1. What New Features Were Added in Java 8?
+2. How Streams differ from collections?
+3. What is the use of Functional Interface in Java 8? When to use Functional Interface in Java 8?
+4. What is the need of static method in Interface ?
+5. What is the need of having a default method in an interface ?
+6. What is Lambda Expression in Java 8?
+7. What is Method Reference in Java 8?
+8. What are different types of Method References in Java 8?
+9. Why to use Optional in Java 8?
+10. What is Optional in Java 8?
+
+Please follow below link to find the answers of these questions :
+Top 20 interview questions on Java 8 feature - https://onlyfullstack.blogspot.com/2019/07/java-8-feature-interview-questions.html
+
+Please follow below url to find Java 8 Lambda questions - https://onlyfullstack.blogspot.com/2019/08/java-8-lambda-expression-interview.html
+
+Please follow below url to find Java 8 programming questions :
+Top 10 programming questions asked on Java 8 features - https://onlyfullstack.blogspot.com/2019/07/java-8-programming-interview-questions.html  
+
+
+Interview Questions
+
+
+1.which one to choose : static or singleton pattern.
+2. need to overload any method . will it not create confusion with the names.
+3. what is cyclic dependency.Impact of cyclic dependency on applcation.
+how to get rid of it?
+4.describe any design pattern .why chose that pattern and its advantages
+5.what is is-a and has-has a relationship
+6.write code for singleton pattern.  
+
+
+2. If we have static method in class, is it thread safe?
+
+4. Java memory management
+5. write method that will reverse string
+6. We have a in-bound and out-bound queue and between is a multithreaded logic that threads take a messages from in-bound queue and write to outbound queue.
+ Propose solution that messages from outbound queue will be available in he same order as data in in-bound queue
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Technical Questions:
+Q1. What is the difference between multi tasking, multi processing and multi programming operating systems with examples ?
+Q2. Tell me about memory allocation (stack vs. heap)?
+Q3.You have two threads one printing even numbers in order and other odd numbers. Design an algorithm so that it prints numbers in natural order?
+Q4. Print a matrix in spiral order?
+Q5. Thread class and Runnable Interface?
+Q6. What’s the difference between a Linked List and an ArrayList and give me an example of when to use which?
+Q7. Questions of OS concepts?
+
+
+
+It was a typical Buy/Sell problem with two different scenarios.
+
+One was that you can sell after you buy and other was that you can sell and buy anytime.
+
+This is was the easier question 30 marks.
+
+Link : https://www.geeksforgeeks.org/stock-buy-sell/
+
+2nd One :
+
+It was relatively tougher problem with a weightage of 40 marks.
+
+Typical 2d-DP problem.
+
+
+Question: Find and return the maximum sum of  k x k matrix with maximum sum in a n x n matrix.  LINK: https://www.geeksforgeeks.org/print-maximum-sum-square-sub-matrix-of-given-size/
+
+
+https://www.theguardian.com/science/2017/jul/03/did-you-solve-it-are-you-smarter-than-a-cat
+
+https://www.quora.com/What-are-the-questions-asked-in-Hirevue-JP-Morgan-Interview-for-Java-Software-Developer
+
+
+Explain OOPS Concept ?
+What is Constructor overriding/overloading ?
+What is Abstraction in Detail and Explain Inheritence ?
+Explain Collection and its types ?
+Difference between LinkedList and ArrayList ?
+Difference between Map and ConcurentMap ?
+Explain how multithreading works ?
+What is difference between Procedure and Function in SQL ?
+Write a Query to return Top 5th Record of an Employee based on Salary given all required Columns are present in same Table ?
+Difference between varchar and varchar2 ?
+Types of Index in SQL ?
+What is Classloader ?
+What is Caching and how can you implement your Cache ?
+How Hibernate Implements it's Caching ?
+Given a Class with same Package and Defination in 2 Separate war/ear, will those Classes Collide on deploying on same Container(Tomcat) ?
+If I load the same Class by ClassLoader, which class is going to be loaded ?
+How to Identify and Solve ThreadStuck Issue/Exceptions. ?
+How is your Experience in Debugging ?
+ my mind.
+
+
+
+
+https://www.quora.com/What-are-the-questions-asked-in-Hirevue-JP-Morgan-Interview-for-Java-Software-Developer

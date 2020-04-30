@@ -1,0 +1,55 @@
+find a missing number
+arraylsit vs linkedlist
+Write a program to input an integer and return its Roman value.  
+reverse a string
+collections
+collisons
+can a class be final
+application context vs bean factory
+how many ways to create java
+custom exception
+how s jpa different form hibernate
+remove consecutive duplicate characters in a string  
+What is the difference between overloading and overriding  
+whhat is string pool with example?  
+oopsconcepts,Strings,Collections,loops,multithreadingExceptions
+collection Topics, Spring MVC, SpringBoot, basic on hibernate  
+Multithreading, pl SQL , oops ,spring
+
+	
+
+Explain coding for interface.  
+
+Why we use Thread? Explain with example.  
+
+programming question: You have 4 list containing String elements. write a program to search for a particular pattern(eg: "abc") with 3 threads operating on all 4 lists and as soon as pattern is found all the thread should exit without any further processing.  
+
+Explain Upcasting and downcasting.  
+
+What is Executors and why it is used  
+
+Explain about reentrant lock.  
+
+
+How to calculate the length of linked list without using counter?
+
+1st round:
+--> How to write Immutable class ?
+--> one line defination of, what is Collection and implement a HashMap class. Iterate over it through iterator.
+--> Exception which will be thown while iterating, if the there are no elements to iterate.
+--> Find duplicate element and remove the same. I implemeted through ArrayList.
+--> Diffrerence between fail fast and fail sare iterator.
+etc..
+
+What is a class loader ? What does it do ?  
+
+Write a program to reverse a string.  
+
+Write a program to print the number of times each character is repeated in a string.  
+
+
+Aggregation and Composition
+get and load difference
+Hashmap implementation
+Spring IOC  
+

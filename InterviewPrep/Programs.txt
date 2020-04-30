@@ -1,0 +1,7 @@
+Majority Element
+------------------
+https://leetcode.com/problems/majority-element/discuss/51613/O(n)-time-O(1)-space-fastest-solution
+
+http://www.cs.utexas.edu/~moore/best-ideas/mjrty/index.html
+
+---------------------------------------------------------------------------------------------------

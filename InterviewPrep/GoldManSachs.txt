@@ -1,0 +1,35 @@
+GoldMan sachs
+ 
+1. Write a program to check whether given tree is binary search tree  
+
+2.In a linked list, find nth element from the end  
+
+3.System design question to design alert processing system  
+
+4.Implement cache where each element in cache have its own expiry time
+
+5.Coderpad interview: Given an array of non negative integers, find the smallest sub array that at least equals a value x that is also passed to the function.  
+1 Answer
+Coderpad: given an array scores[][] = {jerry,65},{bob,91}, {jerry,23}, {Eric,83}}
+
+Find the student with highest average score  
+
+print all the characters that needs to be present to make a sentence an pangram  
+
+
+
+given a string, find all Unique substrings with k length, then
+sort. ex: caaab,k = 2,return aa, ab, ca
+
+Given an nxn matrix of numbers in ascending order in both dimensions how would you go about finding if the number y is in the matrix. 
+
+Interview Questions
+
+Revert a linked list with a cycle in it. (Thus removing the cycle)  
+
+How DB indexing works.  
+
+Design a system to manage a parking lot.  
+
+How do you calculate weighted averages?  
+   

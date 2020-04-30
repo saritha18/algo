@@ -1,0 +1,43 @@
+Interview Questions
+
+how request from browser works and the process involved to get response  
+
+why object class is default super class and methods in object class  
+
+arraylist internal working  
+
+linked list internal working  
+
+HashMap,treemap internal working  
+
+which sorting collections use ?  
+
+REST methods and their use  
+
+memory management in java  
+
+how garbage collector works ?  
+
+who takes care of references marking in Garbage collector ?  
+
+types of garbage collector  
+
+what is threading?  
+
+how to serve 100000 requests in 10 seconds time using threading?  
+
+methods used in threading?  
+
+custom cache implementation design  
+
+linkedhasmap internal working  
+
+what is deadlock ?  
+
+steps need to take to avoid deadlock ?  
+
+what is synchronization?  
+
+static synchronize methods  
+
+use of static keyword  

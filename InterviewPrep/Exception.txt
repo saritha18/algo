@@ -1,0 +1,3 @@
+http://www.baeldung.com/exception-handling-for-rest-with-spring
+http://www.ekiras.com/2016/02/how-to-do-exception-handling-in-springboot-rest-application.html
+https://www.toptal.com/java/spring-boot-rest-api-error-handling

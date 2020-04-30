@@ -1,0 +1,70 @@
+1. java8 
+2. static default
+3. comparator
+4. program to find duplicates
+5.program to find second duplicates
+6. how to create rest resource
+7. Db query to find employee
+8.Executors
+8.How to create restresource
+9.ManytoMany mapping
+10.Rabbit mq code
+11.Optional
+12.Composite key
+13. Reverse string array
+14. Sort
+15. solid principles
+16. proxy pattern
+17. decorator pattern
+18. observer pattern
+19. Chain of responsibility pattern
+20. factory and abstract factory pattern
+21. Cqrs
+22. Hash map internal working
+23. Concurrent hashmap vs synchronized hashmap
+24. Interface vs abstract class
+25. Indexing
+26. Spirng Ioc
+27. Microservices advantages and disadvantages
+28. Communication between them
+29. reactive microservice
+30. how to store logs
+31. Transaction management
+32. Annotations restcontroller response body
+33. Functional interface
+34. Docker
+35. Design carshow room
+36. Design a resource such that 2 threads want to update a resource and other thread read a resource
+37. How did you configure spring boot project
+38. Spring 10 beans are implementing same interface how to autowire
+39. protected vs defaut
+40. ContextLoadListener
+41. Context Aware interfaces
+42. Balanced Parenthesis program
+43. Hashmap improvement in java8
+44.Rest api best programming practises
+45.Exception handling
+46.Can we override and private and static methods
+47.Why streams
+48.Comparator
+49.Which tool to be used for performance testing of an api
+50.Process vs Thread
+51.Design whatsapp
+52.When microservice is down how you wil handle
+53.Which Db to be used for more writes and which one if more reads
+54.Which version of Spring boot you have used
+55.Sql Injection
+56.Junit
+57.JPA vs Hibernate
+58.Hiberante Lazy loading
+59.Rest PUT vs Post
+60.Rest Put vs Patch
+61.Hibernate entity states
+62.String pool 
+63.Out of Memory issues
+64.How do you manage distributed transactions
+65.Microservices per db advantages and disadvantages
+66.
+67. 
+
+

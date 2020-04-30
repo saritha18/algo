@@ -1,0 +1,357 @@
+https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+https://github.com/donnemartin/system-design-primer#sql-or-nosql
+https://github.com/checkcheckzz/system-design-interview
+https://www.palantir.com/how-to-ace-a-systems-design-interview/
+http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
+
+https://www.sitepoint.com/sql-vs-nosql-differences/
+https://docs.mongodb.com/manual/core/write-operations-atomicity/
+https://docs.mongodb.com/manual/core/read-isolation-consistency-recency/
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd197427(v=ws.10)
+https://en.wikipedia.org/wiki/Domain_Name_System
+https://www.slideshare.net/jboner/scalability-availability-stability-patterns/3-Outline
+https://www.youtube.com/watch?v=-W9F__D3oY4
+http://robertgreiner.com/2014/08/cap-theorem-revisited/
+https://www.youtube.com/watch?v=srOgpXECblk
+https://www.sitepoint.com/sql-vs-nosql-differences/
+https://www.puncsky.com/hacking-the-software-engineer-interview/
+https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936
+https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280
+
+1.Design pastbin :
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/pastebin/README.md
+------ Read the internal links given in this page.
+https://leetcode.com/discuss/interview-question/124804/Design-Pastebin/
+
+2. Design a system that scales to millions of users on AWS
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md
+https://www.youtube.com/watch?v=w95murBkYmU
+
+3. Design the Twitter timeline and search
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md
+https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb
+https://gorkemgenc.com/2018/02/27/twitter-search-design/
+
+4. Design a web crawler
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/web_crawler/README.md
+https://softwareengineering.stackexchange.com/questions/38324/how-would-you-implement-google-search
+http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/
+http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/
+http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/
+http://infolab.stanford.edu/~backrub/google.html
+https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch-What-language-or-framework-would-you-recommend
+http://infolab.stanford.edu/~backrub/google.html
+https://www.quora.com/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-Google-scale-search-engine
+https://softwareengineering.stackexchange.com/questions/38324/how-would-you-implement-google-search
+http://www.ardendertat.com/2012/01/11/implementing-search-engines/
+http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/?utm_campaign=quora&utm_medium=How+can+I+build+a+web+crawler+from+scratch?&utm_source=quora
+
+
+5. Design Mint.com
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/mint/README.md
+
+6. Design the data structures for a social network
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/social_graph/README.md
+
+7. Design a key-value cache to save the results of the most recent web server queries
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/query_cache/README.md
+
+8. Design Amazon's sales rank by category feature
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/sales_rank/README.md
+
+9. Whatsapp/facebook messenger System design or software architecture
+https://www.youtube.com/watch?v=L7LtmfFYjc4
+https://www.youtube.com/watch?v=zKPNUMkwOJE&t=38s
+http://blog.gainlo.co/index.php/2016/04/19/design-facebook-chat-function/
+C:\Users\arupb\Downloads\Locker\Video\(4) Whatsapp System design or software architecture - YouTube.MP4
+C:\Users\arupb\Downloads\Locker\Video\(1) System Design - Design messaging_chat service like Facebook Messenger or Whatsapp - YouTube.MP4
+
+10. Design drop box or google drive
+http://www.academia.edu/12325670/Designing_a_Dropbox-like_File_Storage_Service
+https://neil.fraser.name/writing/sync/
+
+11. Design recommendtion system like amazon ecomerce
+https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html
+https://en.wikipedia.org/wiki/Recommender_system
+http://blog.gainlo.co/index.php/2016/05/24/design-a-recommendation-system/
+https://www.youtube.com/watch?v=S4RL6prqtGQ
+http://blogs.avalonconsult.com/blog/big-data/machine-learning-solutions-recommender-system-design-2/
+https://www.youtube.com/watch?v=BKCAkHn8jqA
+
+12. Design flickr
+http://highscalability.com/flickr-architecture
+
+13. design instagram
+https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648
+http://blog.gainlo.co/index.php/2016/03/01/system-design-interview-question-create-a-photo-sharing-app/
+https://www.geeksforgeeks.org/design-scalable-system-like-instagram/
+
+14. Design news feed
+https://www.quora.com/What-are-the-best-practices-for-building-something-like-a-news-feed
+https://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed
+https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920
+https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920
+http://blog.gainlo.co/index.php/2016/03/29/design-news-feed-system-part-1-system-design-interview-questions/
+http://blog.gainlo.co/index.php/2016/04/05/design-news-feed-system-part-2/
+https://www.geeksforgeeks.org/edgerank-algorithm-facebook-news-feed/
+https://www.geeksforgeeks.org/design-data-structures-for-a-very-large-social-network-like-facebook-or-linkedln/
+
+
+15. Design twitter
+https://www.slideshare.net/nkallen/q-con-3770885/2-Follow_alonghttpwwwslidesharenetnkallenqcon
+http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html
+https://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture/
+https://www.slideshare.net/nkallen/q-con-3770885/71
+http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/
+http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/
+
+
+16. Design twitter trending
+http://blog.gainlo.co/index.php/2016/05/03/how-to-design-a-trending-algorithm-for-twitter/
+
+
+17. Design fb friend suggetion or linkdn connection suggestion
+
+
+18. Design cricinfo
+https://www.youtube.com/watch?v=exSwQtMxGd4
+
+19. Designing a URL Shortening service like TinyURL - Tushar video youtube
+
+
+20. Designing Youtube or Netflix
+http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/
+http://blog.gainlo.co/index.php/2016/11/04/design-youtube-part-ii/
+https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/
+http://highscalability.com/youtube-architecture
+
+
+21. Designing Typeahead Suggestion
+
+
+22. Designing Twitter Search
+
+
+23. Designing Yelp or Nearby Friends
+
+
+24. Designing Uber backend/Design ride sharing app. Include features like matching rider (customer) to driver, feedback system
+
+
+25. Design BookMyShow
+https://www.geeksforgeeks.org/design-movie-ticket-booking-system-like-bookmyshow/
+
+
+26. Design facebook live streaming
+https://code.fb.com/networking-traffic/under-the-hood-broadcasting-live-video-to-millions/
+https://code.fb.com/networking-traffic/under-the-hood-broadcasting-live-video-to-millions/
+https://tianrunhe.wordpress.com/2012/04/08/design-the-data-structure-for-large-social-network/
+
+27. design a social network + message board service sites like Quora, Reddit, or HackerNews
+
+
+28. design an application like Airbnb
+
+29. Design api rate limiter
+https://stripe.com/blog/rate-limiters
+
+
+
+27. Design a hash map
+https://www.javamadesoeasy.com/2015/02/hashmap-custom-implementation.html
+
+28. Design an LRU cache
+http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/
+
+29. Design Serch Engine like google
+https://www.makeuseof.com/tag/how-do-search-engines-work-makeuseof-explains/
+https://www.geeksforgeeks.org/how-google-updates-itself/
+https://www.geeksforgeeks.org/ranking-google-search-works/
+https://www.geeksforgeeks.org/google-search-works/
+https://www.geeksforgeeks.org/facebook-display-ads-something-searched/
+https://www.geeksforgeeks.org/search-engine-optimization-seo-basics/
+https://www.geeksforgeeks.org/understanding-search-engines/
+
+30. Design system which can search non repeating word from a 100gb file.
+https://leetcode.com/discuss/interview-question/124858/First-non-repeating-word-in-a-file-File-size-can-be-100GB./
+https://stackoverflow.com/questions/11014493/hadoop-mapreduce-appropriate-input-files-size
+https://community.hortonworks.com/questions/63623/what-is-a-good-approach-for-spilitting-100gb-file.html
+
+31. Design Notification Service for Amazon Alexa
+
+32. Design BigTable
+
+33. Design a location sharing app
+
+34. Design a distributed web crawler that will crawl all the pages of wikipedia
+https://leetcode.com/discuss/interview-question/124657/Design-a-distributed-web-crawler-that-will-crawl-all-the-pages-of-wikipedia/
+
+35. Design a system to caculate the duration of the average skype call per day
+
+36. Designing Quora or Reddit or HackerNews (a social network + message board service)
+
+37. Design a deck of cards
+
+38. Design a parking lot system.
+https://leetcode.com/discuss/interview-question/124576/Design-a-parking-lot-system./
+https://www.geeksforgeeks.org/design-parking-lot-using-object-oriented-principles/
+
+39. design Vending Machine
+
+41. design a traffic control system
+
+42. design an ATM machine
+
+43. Design a system to handle large log data and store particular info to sql
+
+44. Design REST API for Book Catalog
+
+45. Design an Elevator system
+
+46. Design Scheduling Job Involving both RAM and CPU
+https://leetcode.com/discuss/interview-question/124786/Scheduling-Job-Involving-both-RAM-and-CPU/
+
+47. Design a sync process which will sync front end with back end in realtime
+https://leetcode.com/discuss/interview-question/172809/Sync-front-end-with-back-end-in-realtime/
+
+48. Design a system to display real time stock data and prices
+
+49. Design a build system/Building a Distributed Build System at Google Scale
+https://www.youtube.com/watch?v=y0IutoPKTNE
+https://www.slideshare.net/aysylu/building-a-distributed-build-system-at-google-scale
+http://google-engtools.blogspot.com/2011/09/build-in-cloud-distributing-build-steps.html
+http://google-engtools.blogspot.com/2011/10/build-in-cloud-distributing-build.html
+
+50. Design a call center
+
+51. Design a Garbage Collector
+http://blog.gainlo.co/index.php/2016/07/25/design-a-garbage-collection-system-part-i/
+http://blog.gainlo.co/index.php/2016/08/08/design-garbage-collection-system-part-ii/
+https://stackoverflow.com/questions/6866531/how-to-implement-a-garbage-collector
+http://www.lwh.jp/lisp/gc.html
+https://dzone.com/articles/understanding-garbage-collection-log
+https://stackify.com/java-memory-leaks-solutions/
+http://www.tothenew.com/blog/java-garbage-collection-an-overview/
+https://www.journaldev.com/16659/garbage-collection-in-java
+https://stackify.com/what-is-java-garbage-collection/
+https://blog.takipi.com/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+https://www.cubrid.org/blog/how-to-tune-java-garbage-collection
+https://www.cubrid.org/blog/how-to-monitor-java-garbage-collection/
+https://www.cubrid.org/blog/how-to-tune-java-garbage-collection/
+https://dzone.com/articles/how-tune-java-garbage
+https://developer.amd.com/4-easy-ways-to-do-java-garbage-collection-tuning/
+https://docs.oracle.com/javase/10/gctuning/ergonomics.htm#JSGCT-GUID-034BAF7C-2F2E-483D-8606-0BF2B8710BC9
+http://techcommunity.softwareag.com/web/guest/pwiki/-/wiki/Main/Java+Garbage+Collection+Tuning+Strategy+-+An+Example
+https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html
+https://jelastic.com/blog/tuning-garbage-collector-java-memory-usage-optimization/
+https://www.petefreitag.com/articles/gctuning/
+https://plumbr.io/handbook/gc-tuning-in-practice
+https://www.cubrid.org/blog/understanding-java-garbage-collection/
+
+
+52. Implement a Text Line Editor 
+53. Design "How Many people currently viewing the property" for a E Commerce Hotel Booking Site
+https://leetcode.com/discuss/interview-question/163204/Design-%22How-Many-people-currently-viewing-the-property%22-for-a-E-Commerce-Hotel-Booking-Site/
+https://www.geeksforgeeks.org/design-online-hotel-booking-system-like-oyo-rooms/
+
+54. Design Trading Application
+
+55. design scalable system like foursquare
+https://www.geeksforgeeks.org/design-scalable-system-like-foursquare/
+
+56. Design an online book reader system
+https://www.geeksforgeeks.org/design-an-online-book-reader-system/
+
+57. Design a Logistics System
+https://www.geeksforgeeks.org/design-a-logistics-system/
+
+58. Design a hit counter
+https://www.geeksforgeeks.org/design-a-hit-counter/
+
+59. Design data structures and algorithms for in-memory file system
+https://www.geeksforgeeks.org/design-data-structures-algorithms-memory-file-system/
+
+60. How would you parse a huge log file
+https://leetcode.com/discuss/interview-question/128037/How-would-you-parse-a-huge-log-file/
+
+61. Design Blog Recommender System
+
+62. Design back end of Candy Crush
+
+63. how to design the google help system
+
+64. Design Rock-Paper-Scissors game
+
+65. Design a file-word mapper
+https://leetcode.com/discuss/interview-question/158695/Design-a-file-word-mapper/
+
+66. Design Content Management System
+
+67. 3rd party Ticketing service Design
+
+68. Implement minesweeper
+
+69. Design Wikipeida
+
+70. Design a service to calculate the top k listened songs in past 24 hours
+
+71. Design a Multicurrency trading system
+
+72. Design a system to dispatch deliveries
+
+73. Design online multiplayer snake&ladder game
+
+74. Design google map database
+
+75. How GPS works
+https://www.geeksforgeeks.org/how-gps-works/
+
+76. https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904
+
+77. ATOI. JSON Parser. Print prime numbers in one thread and non primes in another thread.
+
+https://medium.com/@varuntayal/what-does-it-take-to-generate-cluster-wide-unique-ids-in-a-distributed-system-d505b9eaa46e
+
+
+Zookeeper, CDN, MD5, SHA256, MemChached
+
+https://github.com/checkcheckzz/system-design-interview
+
+
+Scalability Harvard lecture https://www.youtube.com/watch?v=-W9F__D3oY4
+Consistent Hashing  https://www.youtube.com/watch?v=viaNG1zyx1g
+					http://michaelnielsen.org/blog/consistent-hashing/
+					https://avinetworks.com/what-is-load-balancing/
+Load Balancing		https://www.nginx.com/resources/glossary/load-balancing/
+					https://www.citrix.com/en-in/glossary/load-balancing.html
+Messaging Queues	http://blog.codepath.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/
+					https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html
+					http://highscalability.com/blog/2012/12/17/11-uses-for-the-humble-presents-queue-er-message-queue.html
+Microservices		https://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith
+					https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
+					http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html
+					https://www.youtube.com/watch?v=kb-m2fasdDY
+Database Partitioning
+					https://stackoverflow.com/questions/18302773/what-are-horizontal-and-vertical-partitions-in-database-and-what-is-the-differen
+					https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
+					https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f
+Netflix				https://medium.com/netflix-techblog/high-quality-video-encoding-at-scale-d159db052746
+					https://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830
+					https://medium.com/netflix-techblog/tagged/video-encoding
+					https://medium.com/netflix-techblog/tagged/stream-processing
+					https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a
+					https://media.netflix.com/en/company-blog/how-netflix-works-with-isps-around-the-globe-to-deliver-a-great-viewing-experience
+					
+Whatsapp 			https://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve
+					http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
+					http://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html
+					
+Caching				https://github.com/google/guava/wiki/CachesExplained
+					http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/9-virtual-mem/LRU-replace.html
+
+Cloud/Block Storage https://cloudacademy.com/blog/object-storage-block-storage/
+
+https://www.oreilly.com/library/view/distributed-systems-in/9781491924914/video215265.html?autoplay=false					
+https://lethain.com/introduction-to-architecting-systems-for-scale/
+https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b
