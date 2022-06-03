@@ -54,9 +54,9 @@ public class MergeSort {
 	 
 
 /** Time Complexity :
-Best 
-Average
-Worst
+Best o(nlogn)
+Average o(nlogn)
+Worst o(nlogn)
 
 Space Complexity
 
